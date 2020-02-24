@@ -1,0 +1,61 @@
+.hader{
+  background: rgb(6,22,181);
+  background: linear-gradient(90deg, rgba(6,22,181,1) 0%, rgba(40,130,251,0.8272351176798844) 45%, rgba(81,239,245,0.9028653697807247) 100%);
+font-size: 25px;
+direction:rtl;
+border-top-left-radius: 90%;
+width: 100%;
+
+
+}
+
+body{
+text-align: right;
+  margin-right: 5%;
+  margin-left: 5%;
+  color:blue;
+  font-size: 20px;
+background: #a6f0ff;
+}
+.logo{
+text-align: left;
+padding:5px;
+}
+h1{
+color: #002266;
+font-size: 65px;
+}
+table{
+  direction: rtl;
+  text-align: center;
+  border: 1px;
+
+
+}
+tr{
+  text-align: center;
+
+
+}
+.contact{
+direction: rtl;
+margin-right:5%;
+font-style: italic;
+border: 3px;
+}
+.form{
+  direction: rtl;
+  color:#b610f7;
+  padding: 5%;
+ grid-row: 3;
+}
+p{
+  font-size: 35px;
+  color: white;
+  background-color: #b610f7;
+  border-bottom-left-radius: 90%;
+
+  border: 3px;
+  padding: 5px
+
+}

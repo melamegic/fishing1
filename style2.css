@@ -1,0 +1,54 @@
+.hader{
+  background: rgb(6,22,181);
+  background: linear-gradient(90deg, rgba(6,22,181,1) 0%, rgba(40,130,251,0.8272351176798844) 45%, rgba(81,239,245,0.9028653697807247) 100%);
+font-size: 25px;
+direction:rtl;
+border-top-left-radius: 90%;
+width: 100%;
+margin: auto;
+
+}
+
+body{
+text-align: right;
+  margin-right: 5%;
+  margin-left: 5%;
+  color:blue;
+  font-size: 20px;
+  background: #a6f0ff;
+}
+.logo{
+text-align: left;
+padding:5px;
+}
+h1{
+color: #002266;
+font-size: 65px;
+text-align: center;
+}
+table{
+  direction: rtl;
+  text-align: center;
+  font-size: 25px;
+
+}
+li{
+  direction: rtl;
+
+}
+h2{
+  font-size: 35px;
+  color: green;
+}
+.tavla{
+  font-size: 30px;
+  text-align: justify;
+  color: #2637b0;
+}
+a{
+  color: black;
+}
+.tavla{
+    padding: 3%;
+    grid-row: auto;
+}
